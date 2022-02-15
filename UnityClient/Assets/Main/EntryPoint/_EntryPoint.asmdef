@@ -1,0 +1,16 @@
+{
+    "name": "_EntryPoint",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b367a1691a5230b4a95cf8eda90214bd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
