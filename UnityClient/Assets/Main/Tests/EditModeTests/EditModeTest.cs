@@ -14,9 +14,9 @@ public class EditModeTest
 		// ex: Modelの単体テスト
 		var model = new SandBox.UI.Model.SandboxModel();
 		Assert.AreEqual(model.Counter.Value, 0);
-        model.Increment();
-        Assert.AreEqual(model.Counter.Value, 1);
-        model.Increment();
-        Assert.AreEqual(model.Counter.Value, 2);
+		model.Increment();
+		Assert.AreEqual(model.Counter.Value, 1);
+		model.Increment();
+		Assert.AreEqual(model.Counter.Value, 2);
 	}
 }
